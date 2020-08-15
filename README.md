@@ -25,7 +25,7 @@ Manually you can:
                   systemctl reboot
                   
                   
-
+This is provided as is, I accept no responsibility for any issues resulting from running this.
 
 
 Forked from https://github.com/dkhabarov/debian-kernel-cleaner and translated.
