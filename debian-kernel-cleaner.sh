@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ ! -f /etc/debian_version ]; then
-  echo "Ошибка! Что-то не похоже, что скрипт запущен под deb-based системой."
+  echo "This Script runs on Debian variants only."
   exit 1
 fi
 
