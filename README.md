@@ -8,7 +8,7 @@ It is recommended to keep at least one or two older kernels, so you can boot you
 
 Using apt autoremove, will sometimes fx the issue, however sometimes you need to do it manually, which can be both dangerous and terrifying.
 
-Manually you can:
+Manually you can: (as root/ via sudo/doas)
 
                   uname -a
                   
