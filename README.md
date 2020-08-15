@@ -1,4 +1,4 @@
-debian-kernel-cleaner
+Debian-Kernel-Cleaner / Purge-Old-Kernels-Debian
 
 After installing a new Linux kernel, old kernels are not automatically deleted. They remain in your disk (/boot partition). You have to delete them manually
 
