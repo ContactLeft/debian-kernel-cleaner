@@ -20,4 +20,5 @@ Manually you can:
 
 
 Forked from https://github.com/dkhabarov/debian-kernel-cleaner and translated.
+
 Documentation added from https://www.pontikis.net/blog/remove-old-kernels-debian-ubuntu
