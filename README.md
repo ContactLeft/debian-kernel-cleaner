@@ -16,7 +16,9 @@ Manually you can:
                   
                   dpkg --list | grep linux-headers
                   
-                  apt-get --purge remove linux-image-XXX
+                  apt-get --purge remove linux-image-XXX  (where -xxx is the version to remove)
+                  
+                  apt-get --purge remove linux-headers-XXX  (where -xxx is the version to remove)
                   
                   update-grub2
                   
