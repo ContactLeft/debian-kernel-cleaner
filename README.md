@@ -9,12 +9,19 @@ It is recommended to keep at least one or two older kernels, so you can boot you
 Using apt autoremove, will sometimes fx the issue, however sometimes you need to do it manually, which can be both dangerous and terrifying.
 
 Manually you can:
+
                   uname -a
+                  
                   dpkg --list | grep linux-image 
+                  
                   dpkg --list | grep linux-headers
+                  
                   apt-get --purge remove linux-image-XXX
+                  
                   update-grub2
+                  
                   systemctl reboot
+                  
                   
 
 
