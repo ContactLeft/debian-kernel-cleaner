@@ -6,7 +6,7 @@ Some systems may become unusable if not enough disk space is available in /boot 
 
 It is recommended to keep at least one or two older kernels, so you can boot your system in an emergency situation (hardware or software compatibility issues with the current kernel).
 
-Using apt autoremove, will sometimes fx the issue, however sometimes you need to do it manually, which can be both dangerous and terrifying.
+Using apt autoremove, will sometimes fix the issue, however sometimes you need to do it manually, which can be both dangerous and terrifying.
 
 Manually you can: (as root/ via sudo/doas)
 
